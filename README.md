@@ -4,4 +4,5 @@ Repository thực hành cho hoc phần môn Công nghệ phần mềm
 Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GitHub.
 ## Thông tin sinh viên
 - **Họ và tên:** Ksor - H' Vân
-- **Mã số sinh viên:** 
+- **Mã số sinh viên:** 24S1020084
+  
